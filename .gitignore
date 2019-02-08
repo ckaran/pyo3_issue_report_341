@@ -1,0 +1,5 @@
+**/*.rs.bk
+.eggs/
+/target
+build/
+py_disc_model.egg-info/
